@@ -12,7 +12,7 @@
 </div>
 <br>
 <p align="center">
-    [Primeiro projeto em Noje JS ]
+    [ Primeiro projeto em Noje JS ]
 </p>
 
 <p align="center">
